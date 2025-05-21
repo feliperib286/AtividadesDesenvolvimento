@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Ball = styled.div`
-  background-color: #3bb33b;
+  background-color: #d61897;
   color: white;
   border-radius: 50%;
   width: 50px;
